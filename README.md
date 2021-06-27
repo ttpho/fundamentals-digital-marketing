@@ -6,6 +6,7 @@ https://learndigital.withgoogle.com/digitalgarage/course/digital-marketing
 
 ### Note 
 COVID-19, stay home, keep learning 
+12/06/2021 -> 26/06/2021
 
 ### Certificate 
 ![certificate](https://user-images.githubusercontent.com/3994863/123540642-43dd1680-d76a-11eb-9877-2be37e117510.png)
